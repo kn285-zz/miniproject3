@@ -1,7 +1,7 @@
 name: "Jekyll true minimal theme"
 description: "Lightweight theme"
 
-url: 'kn285.github.io/'
+url: 'https://kn285.github.io/'
 baseurl: '/miniproject3'
 
 markdown: kramdown
